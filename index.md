@@ -1,3 +1,5 @@
+Hi, welcome to my "website"!
+
 ## About me
 I'm Zoey, an 18yr old Australian developer. I have learning dificulties and may act a little differently to others, please don't discriminate or be mean, as I'm still a person.  
 
